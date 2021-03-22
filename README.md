@@ -55,7 +55,13 @@
 
 
 ## How to upload ( Contribution )
-
+Method 1
 1. Fork this repository
 2. Upload the file in your repository
 3. Pull request your commits here
+
+Method 2
+1. git clone this repo
+2. add your files
+3. commit
+4. git push
