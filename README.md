@@ -13,3 +13,55 @@
 ## 스터디 진행 요일 및 시간
 * 요일: 미정
 * 시간: 미정
+
+## Problem - Based on Baekjoon
+* Problem printf
+
+| 번호 | 문제 |
+|---|:---:|
+| `2557` | [`Hello World`](https://www.acmicpc.net/problem/2557) |
+| `10869` | [`사칙연산`](https://www.acmicpc.net/problem/10869)|
+
+* Problem If statement
+
+| 번호 | 문제 |
+|---|:---:|
+| `9498` | [`시험 성적`](https://www.acmicpc.net/problem/9498) |
+| `1330` | [`두 수 비교하기`](https://www.acmicpc.net/problem/1330)|
+
+* Problem For, While statement
+
+| 번호 | 문제 |
+|---|:---:|
+| `2438` | [`별 찍기 - 1`](https://www.acmicpc.net/problem/2438) |
+| `2439` | [`별 찍기 - 2`](https://www.acmicpc.net/problem/2439)|
+| `2440` | [`별 찍기 - 3`](https://www.acmicpc.net/problem/2440) |
+| `2441` | [`별 찍기 - 4`](https://www.acmicpc.net/problem/2441)|
+
+* Problem Array
+
+| 번호 | 문제 |
+|---|:---:|
+| `2562` | [`최댓값`](https://www.acmicpc.net/problem/2562) |
+| `2577` | [`숫자의 개수`](https://www.acmicpc.net/problem/2577)|
+
+* Problem Function
+
+| 번호 | 문제 |
+|---|:---:|
+| `1065` | [`한수`](https://www.acmicpc.net/problem/1065) |
+
+* Problem Linked List ( Option )
+
+
+## How to upload ( Contribution )
+Method 1
+1. Fork this repository
+2. Upload the file in your repository
+3. Pull request your commits here
+
+Method 2
+1. git clone this repo
+2. add your files
+3. commit
+4. git push
